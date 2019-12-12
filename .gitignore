@@ -21,4 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 /bin/
+=======
+>>>>>>> 07b7dcf100cb348625bba51f5a315b1a37a472af
